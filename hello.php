@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 <?php 
-echo "Hello php";
+    session_start();
+    echo "Hello php";
+
